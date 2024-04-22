@@ -1,1 +1,6 @@
-what up dog
+1. git branch name_of_new_branch or if you want to jump right into it git checkout -b name_of_new_branch
+2. fast-forward only occurs if there has been no new commits on the original branch while working on the new branch
+3. git checkout name_of_branch 
+4. git branch -d if you want to force the delete you can use -D 
+5. merge conflicts happen if there is are two files with the same name. for instance if i want to merge branch 1 with branch 2
+and both have a text.txt, we then have to decide which version we want to keep after the merger. 
