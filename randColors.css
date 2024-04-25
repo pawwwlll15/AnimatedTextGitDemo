@@ -1,0 +1,29 @@
+body{
+    padding: 0;
+    border: 1px solid red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+h1{
+    padding: 0px;
+    border: 5px solid red;
+    margin: auto;
+    box-sizing: border-box;
+    position:relative;
+    font-size: 10rem;
+    font-family: "Rubik Wet Paint", system-ui;
+    font-style: normal;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+}
+
+/* creating a transition for the colors to make it smoother */
+.letter{
+    transition: color 1000ms;
+}
+
