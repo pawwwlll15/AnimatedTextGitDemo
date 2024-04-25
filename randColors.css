@@ -24,6 +24,6 @@ h1{
 
 /* creating a transition for the colors to make it smoother */
 .letter{
-    transition: color 1000ms;
+    transition: color 1500ms;
 }
 
