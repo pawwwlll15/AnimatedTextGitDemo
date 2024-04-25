@@ -1,16 +1,16 @@
 body{
     padding: 0;
-    border: 1px solid red;
+    border: none;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
+    background-color: #aaffaabb;
 }
 
 h1{
     padding: 0px;
-    border: 5px solid red;
+    border: none;
     margin: auto;
     box-sizing: border-box;
     position:relative;
