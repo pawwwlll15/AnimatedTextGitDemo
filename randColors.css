@@ -14,10 +14,10 @@ h1{
     margin: auto;
     box-sizing: border-box;
     position:relative;
-    font-size: 10rem;
+    font-size: 12rem;
     font-family: "Rubik Wet Paint", system-ui;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 500;
     display: flex;
     justify-content: center;
 }
